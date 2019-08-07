@@ -1,1 +1,1 @@
-Git is a free version control system.
+Git was a free version control system.
